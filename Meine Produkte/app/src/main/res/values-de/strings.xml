@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Meine Produkte</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_test">TEST</string>
+
+    <!--Shortcut Menü Labels-->
+    <string name="shortLabel">Neues Produkt</string>
+    <string name="longLabel">Produkt hinzufügen </string>
+    <string name="shortcutDisabledLabel">Produkt hinzufügen</string>
+
+    <!--Wenn Berechtigung nicht gegeben-->
+    <string name="rights">Sie besitzen nicht die benötigten Berechtigungen.</string>
+
+    <!--Hints-->
+    <string name="noteVerfallsdatum">Wann verfällt das Produkt?</string>
+    <string name="noteBeschreibung">Wie benutzt du das Produkt?</string>
+    <string name="noteTitle">Wie heißt das Produkt?</string>
+    <string name="picture">picture</string>
+
+    <!--Überschriften-->
+    <string name="titel_titel">Produktname</string>
+    <string name="beschreibung">Beschreibung</string>
+    <string name="verfallsdatum">Verfallsdatum</string>
+
+    <!--Delete-->
+    <string name="cancel">Abbrechen</string>
+    <string name="delete_message">Möchtest Du das Produkt wirklich löschen?</string>
+    <string name="create">Erstellt</string>
+    <string name="delete">Produkt löschen</string>
+    <string name="required">erforderlich</string>
+    <string name="enter_title">Produktname eingeben</string>
+    <string name="edit">Aktualisiert!</string>
+    <string name="deleted">Produkt gelöscht</string>
+</resources>

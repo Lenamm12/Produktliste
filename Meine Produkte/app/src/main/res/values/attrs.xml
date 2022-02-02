@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorPrimary" format="color"/>
+    <attr name="colorPrimaryDark" format="color"/>
+
+    <attr name="background_custom" format="color"/>
+    <attr name="toolbarBackground" format="color"/>
+
+    <attr name="textColorPrimary" format="color"/>
+    <attr name="textColorSecondary" format="color"/>
+    <attr name="textColorAccent" format="color"/>
+
+    <attr name="cardColor" format="color"/>
+
+    <attr name="selected" format="color"/>
+    <attr name="unselected" format="color"/>
+</resources>

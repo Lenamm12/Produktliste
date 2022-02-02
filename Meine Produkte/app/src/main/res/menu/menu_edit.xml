@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Nach Hinzufügen speichern-->
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_round_check_24_white"
+        android:title="Speichern"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAFAFA</color>
+    <color name="colorPrimaryDark">#828282</color>
+
+    <color name="colorPrimaryNight">#101010</color>
+    <color name="colorPrimaryDarkNight">#0C0C0C</color>
+
+    <color name="colorAccent">#29ad8f</color>
+    <color name="colorAccentDark">#075A47</color>
+
+    <color name="colorBackground">#fdfdfd</color>
+    <color name="colorBackgroundNight">#020202</color>
+
+    <color name="colorToolbarBackground">#fdfdfd</color>
+    <color name="colorToolbarBackgroundNight">#FF0C0C0C</color>
+
+    <color name="cardColor">#fdfdfd</color>
+    <color name="cardColorNight">#101010</color>
+
+    <color name="darktransparent">#99000000</color>
+
+
+
+
+    <color name="colorTextAccent">#00c853</color>
+
+    <color name="colorTextNight">#ffffff</color>
+    <color name="colorText">#212121</color>
+
+    <color name="colorTextSecondaryNight">#FFFFFF</color>
+    <color name="colorTextSecondary">#212121</color>
+
+    <color name="colorDelete">#d50000</color>
+
+    <!-- Basic Colors-->
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+
+    <color name="selected">#CC000000</color>
+    <color name="unselected">#80000000</color>\
+    <color name="selectedNight">#fff</color>
+    <color name="unselectedNight">#80FFFFFF</color>
+</resources>
